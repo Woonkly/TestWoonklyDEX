@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"localhost/dex/wonklydex/Utils.sol": "Utils"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"localhost/dex/wonklydex/Utils.sol": {
+			"keccak256": "0xde60ad5f122938534d0f6dd669574911c00b3ffad2b0f487b88a6e8002917974",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f08c2d5a607ba803ae86cae5a62f1378611e42d2258e983ddbd89e07fa64bfcc",
+				"dweb:/ipfs/QmXh6mfVbjGU6Q6tHnkGwc2yF5aDrFi1XHickJNpfM7J7T"
+			]
+		}
+	},
+	"version": 1
+}
